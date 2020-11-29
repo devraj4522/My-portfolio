@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Devraj-personal-site/static/css/main.12ae576a.chunk.css",
-    "main.js": "/Devraj-personal-site/static/js/main.ebe3d383.chunk.js",
-    "main.js.map": "/Devraj-personal-site/static/js/main.ebe3d383.chunk.js.map",
-    "runtime-main.js": "/Devraj-personal-site/static/js/runtime-main.5a4fcbe4.js",
-    "runtime-main.js.map": "/Devraj-personal-site/static/js/runtime-main.5a4fcbe4.js.map",
+    "main.js": "/Devraj-personal-site/static/js/main.a84f60e3.chunk.js",
+    "main.js.map": "/Devraj-personal-site/static/js/main.a84f60e3.chunk.js.map",
+    "runtime-main.js": "/Devraj-personal-site/static/js/runtime-main.936a41ae.js",
+    "runtime-main.js.map": "/Devraj-personal-site/static/js/runtime-main.936a41ae.js.map",
     "static/js/2.29f97526.chunk.js": "/Devraj-personal-site/static/js/2.29f97526.chunk.js",
     "static/js/2.29f97526.chunk.js.map": "/Devraj-personal-site/static/js/2.29f97526.chunk.js.map",
     "static/css/3.879e9400.chunk.css": "/Devraj-personal-site/static/css/3.879e9400.chunk.css",
     "static/js/3.9a227dcc.chunk.js": "/Devraj-personal-site/static/js/3.9a227dcc.chunk.js",
     "static/js/3.9a227dcc.chunk.js.map": "/Devraj-personal-site/static/js/3.9a227dcc.chunk.js.map",
     "static/css/4.54df59d4.chunk.css": "/Devraj-personal-site/static/css/4.54df59d4.chunk.css",
-    "static/js/4.365ca45e.chunk.js": "/Devraj-personal-site/static/js/4.365ca45e.chunk.js",
-    "static/js/4.365ca45e.chunk.js.map": "/Devraj-personal-site/static/js/4.365ca45e.chunk.js.map",
+    "static/js/4.a9a3a17c.chunk.js": "/Devraj-personal-site/static/js/4.a9a3a17c.chunk.js",
+    "static/js/4.a9a3a17c.chunk.js.map": "/Devraj-personal-site/static/js/4.a9a3a17c.chunk.js.map",
     "index.html": "/Devraj-personal-site/index.html",
-    "precache-manifest.27c004480d308926a77fbdeef01e5a53.js": "/Devraj-personal-site/precache-manifest.27c004480d308926a77fbdeef01e5a53.js",
+    "precache-manifest.c27cbccaeafe5cb8dc600ba86b86daf2.js": "/Devraj-personal-site/precache-manifest.c27cbccaeafe5cb8dc600ba86b86daf2.js",
     "service-worker.js": "/Devraj-personal-site/service-worker.js",
     "static/css/3.879e9400.chunk.css.map": "/Devraj-personal-site/static/css/3.879e9400.chunk.css.map",
     "static/css/4.54df59d4.chunk.css.map": "/Devraj-personal-site/static/css/4.54df59d4.chunk.css.map",
@@ -38,9 +38,9 @@
     "static/media/TalkCard.css": "/Devraj-personal-site/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a4fcbe4.js",
+    "static/js/runtime-main.936a41ae.js",
     "static/js/2.29f97526.chunk.js",
     "static/css/main.12ae576a.chunk.css",
-    "static/js/main.ebe3d383.chunk.js"
+    "static/js/main.a84f60e3.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39c25b2adfbe60fbd5acf697b92007ed",
+    "revision": "aafccc09f380e093e9e42bca3cca9724",
     "url": "/Devraj-personal-site/index.html"
   },
   {
@@ -8,11 +8,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Devraj-personal-site/static/css/3.879e9400.chunk.css"
   },
   {
-    "revision": "86a9301aa5629ec5c9e6",
+    "revision": "ce91e8b25861c29805c7",
     "url": "/Devraj-personal-site/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "cc46cebbe8619a53c0cc",
+    "revision": "6a96f50bffdae2e37c13",
     "url": "/Devraj-personal-site/static/css/main.12ae576a.chunk.css"
   },
   {
@@ -24,16 +24,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Devraj-personal-site/static/js/3.9a227dcc.chunk.js"
   },
   {
-    "revision": "86a9301aa5629ec5c9e6",
-    "url": "/Devraj-personal-site/static/js/4.365ca45e.chunk.js"
+    "revision": "ce91e8b25861c29805c7",
+    "url": "/Devraj-personal-site/static/js/4.a9a3a17c.chunk.js"
   },
   {
-    "revision": "cc46cebbe8619a53c0cc",
-    "url": "/Devraj-personal-site/static/js/main.ebe3d383.chunk.js"
+    "revision": "6a96f50bffdae2e37c13",
+    "url": "/Devraj-personal-site/static/js/main.a84f60e3.chunk.js"
   },
   {
-    "revision": "60ce8b87745ca1f0543d",
-    "url": "/Devraj-personal-site/static/js/runtime-main.5a4fcbe4.js"
+    "revision": "18022d6a842d4a940eb1",
+    "url": "/Devraj-personal-site/static/js/runtime-main.936a41ae.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
