@@ -187,16 +187,16 @@ const openSource = {
 // Some Big Projects You have worked with your company
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "MEDIA COVERAGE",
+  subtitle: "SOME STARTUPS AND COMPANIES WHERE I GOT FEATURED",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      link: "http://saayahealth.com/"
+      image: require("./assets/images/databox-default.png"),
+      link: "#"
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      link: "http://nextu.se/"
+      image: require("./assets/images/Speech Blubs.png"),
+      link: "#"
     }
   ]
 };
