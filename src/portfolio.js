@@ -18,7 +18,7 @@ const greeting = {
 const socialMediaLinks = {
 
   github: "https://github.com/devraj4522",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
+  linkedin: "https://www.linkedin.com/in/dev-raj-s-80871b12b/",
   gmail: "rehansingh.4522@gmail.com",
   facebook: "https://www.facebook.com/profile.php?id=100010745441573",
   instgram: "https://www.instagram.com/singh.devrj/"
@@ -101,24 +101,27 @@ const educationInfo = {
   viewEducation: true, // Set it to true to see education section
   schools: [
     {
-      schoolName: "Harvard University",
+      schoolName: "Maulan Abul Kalam University of Technology",
       logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      subHeader: "Bachelor in Computer Science Engineering",
+      duration: "September 2019 - Present",
+      desc: "Recent grade 9.4 CGPA",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Learning variou stacks including programming and Communication system",
+        "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+        "Software Engeneering with major focus in fundmental programming Paradigm"
       ]
     },
     {
-      schoolName: "Stanford University",
+      schoolName: "Shivam Residential Public School",
       logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      subHeader: "Matric and Intermediate",
+      duration: "September 2016 - April 2018",
+      desc: "",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "9.6 CGPA in Class 10th and 89% in Intermediate",
+        "Incorporated to school events to inprove communication, leadership skill and team management",
+        "School Briefing"
       ]
     }
   ]
