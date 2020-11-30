@@ -7,9 +7,9 @@ import emoji from "react-easy-emoji";
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  username: "Dev Raj SIngh",
+  username: "Dev Raj",
   title: "Hi all, I'm Dev",
-  subTitle: emoji("A passionate FullStack Developer 🚀"),
+  subTitle: emoji("A passionate <strong>FullStack Developer</strong> 🚀"),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
@@ -19,11 +19,9 @@ const socialMediaLinks = {
 
   github: "https://github.com/devraj4522",
   linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta"
+  gmail: "rehansingh.4522@gmail.com",
+  facebook: "https://www.facebook.com/profile.php?id=100010745441573",
+  instgram: "https://www.instagram.com/singh.devrj/"
   // Instagram and Twitter are also supported in the links!
 };
 
@@ -34,8 +32,8 @@ const skillsSection = {
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji("⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean")
+    emoji("⚡ Progressive WordPress Development with full speed and eligant style"),
+    emoji("⚡ Integration of third party services such as Payment Interfaces/ AWS / Digital Ocean")
   ],
 
 /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -51,8 +49,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "WordPress",
+      fontAwesomeClassname: "fab fa-wordpress"
     },
     {
       skillName: "JavaScript",
@@ -67,8 +65,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
+      skillName: "SEO",
+      fontAwesomeClassname: "fab fa-eearch"
     },
     {
       skillName: "npm",
@@ -79,8 +77,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
+      skillName: "Intergerated Payment",
+      fontAwesomeClassname: "fab fa-credit-card"
     },
     {
       skillName: "firebase",
@@ -91,7 +89,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "docker",
+      skillName: "React Native",
       fontAwesomeClassname: "fab fa-docker"
     }
   ]
