@@ -1,5 +1,5 @@
 ﻿
-/* Change this file to get your personal Portfolio */
+/* Change this file to get your Portfolio */
 
 // Your Summary And Greeting Section
 
@@ -9,8 +9,8 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Dev Raj",
   title: "Hi all, I'm Dev",
-  subTitle: emoji("A passionate <strong>FullStack Developer</strong> 🚀"),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  subTitle: emoji("A passionate FullStack Developer 🚀"),
+  resumeLink: "https://drive.google.com/file/d/14A_X7krepXzoTsqqcjStd60aYQCNxzAx/view?usp=drivesdk"
 };
 
 // Your Social Media Link
@@ -39,7 +39,7 @@ const skillsSection = {
 /* Make Sure You include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
 
-  softwareSkills: [
+  software skills: [
     {
       skillName: "html-5",
       fontAwesomeClassname: "fab fa-html5"
@@ -66,7 +66,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "SEO",
-      fontAwesomeClassname: "fab fa-eearch"
+      fontAwesomeClassname: "fab fa-search"
     },
     {
       skillName: "npm",
@@ -154,40 +154,33 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
+      role: "WordPress Development",
+      company: "Freelancing",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "Helping startups to create an actionable, beautiful website with lightweight themes having high loading speed. Created SEO friendly websites that ranks faster in Google.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Faster website with better caching duration",
+        "Easy to operate and taking action"
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
+      role: "Owner and Admin",
+      company: "The Yuvas",
       companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
-    {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "May 2019 – Present",
+      desc: "Created my own startup that helps students to prepare for competitive exams and look for the better approach and material for these exams."
     },
   ]
 };
 
 /* Your Open Source Section to View Your Github Pinned Projects
-To know how to get github key look at readme.md */
+To know how to get GitHub key look at the readme.md */
 
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-  githubUserName: "saadpasta", // Change to your github username to view your profile in Contact Section.
-  showGithubProfile :"true" // Set true or false to show Contact profile using Github, defaults to false
+  githubUserName: "Devraj4522", // Change to your github username to view your profile in Contact Section.
+  showGithubProfile : "true" // Set true or false to show Contact profile using Github, defaults to false
 };
 
 
@@ -215,7 +208,7 @@ const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
   subtitle: "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
-  achivementsCards: [
+  achievement cards: [
     {
       title: "Featured in JustjobNG",
       subtitle: "Helped resume building specialist in creating an actionable resume that stand out.",
@@ -254,12 +247,12 @@ const blogSection = {
 
   blogs: [
     {
-      url: "https://theyuvas.com/why-learn-python-programming/",
+      URL: "https://theyuvas.com/why-learn-python-programming/",
       title: "Is Python Worth Learning for Beginners",
       description: "How much time does it take to learn python? The best way to learn Python and start a profitable career in Python."
     },
     {
-      url: "https://theyuvas.com/programming-websites/amp/",
+      URL: "https://theyuvas.com/programming-websites/amp/",
       title: "10 Programming Websites that Every Serious Programmer Should Follow",
       description: "List of top 10 websites full building project and enhancing learning in Python and other programming languages"
     }
@@ -303,7 +296,7 @@ const contactInfo = {
 
 const twitterDetails = {
 
-  userName : "Dev_raj4522"//Replace "twitter" with your twitter username without @
+  userName: "Dev_raj4522"//Replace "twitter" with your Twitter username without @
 
 };
 export { greeting, socialMediaLinks, skillsSection, educationInfo, techStack, workExperiences, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo , twitterDetails};
