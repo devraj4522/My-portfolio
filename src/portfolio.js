@@ -227,7 +227,7 @@ const achievementSection = {
     },
 
     {
-      title: "PWA Web App Developer",
+      title: "WordPress Web App Development",
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
       image: require("./assets/images/pwaLogo.webp"),
       footerLink: [
@@ -267,10 +267,10 @@ const talkSection = {
 
   talks: [
     {
-      title: "Build Actions For Google Assistant",
-      subtitle: "Codelab at GDG DevFest Karachi 2019",
-      slides_url: "https://bit.ly/saadpasta-slides",
-      event_url: "https://www.facebook.com/events/2339906106275053/"
+      title: "Build Actions For WordPress Development",
+      subtitle: "#",
+      slides_url: "#",
+      event_url: "#"
     }
   ]
 };
@@ -282,7 +282,7 @@ const podcastSection = {
   subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
 
   // Please Provide with Your Podcast embeded Link
-  podcast: ["https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"]
+  podcast: ["#"]
 };
 
 const contactInfo = {
