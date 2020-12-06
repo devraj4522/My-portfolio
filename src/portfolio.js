@@ -156,7 +156,7 @@ const workExperiences = {
     {
       role: "WordPress Development",
       company: "Freelancing",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/wordpress.png"),
       date: "June 2018 – Present",
       desc: "Helping startups to create an actionable, beautiful website with lightweight themes having high loading speed. Created SEO friendly websites that ranks faster in Google.",
       descBullets: [
